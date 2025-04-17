@@ -293,7 +293,7 @@
         "product_full_name": "Radxa NX5 IO Board",
         "soc": "rk3588s2",
         "supported_suite": ["bookworm"],
-        "supported_edition": ["kde","cli"]
+        "supported_edition": ["kde", "cli"]
     },
     {
         "product": "rock-5a",
@@ -309,7 +309,7 @@
         "product_full_name": "ROCK 5B+",
         "soc": "rk3588",
         "supported_suite": ["bookworm"],
-        "supported_edition": ["kde","cli"]
+        "supported_edition": ["kde", "cli"]
     },
     {
         "product": "rock-5b",
