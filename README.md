@@ -1,3 +1,4 @@
+'''
 git clone --recurse-submodules https://github.com/RadxaOS-SDK/rsdk.git
 cd rsdk
 npm install @devcontainers/cli
