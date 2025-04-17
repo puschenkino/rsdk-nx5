@@ -1,4 +1,5 @@
 git clone --recurse-submodules https://github.com/RadxaOS-SDK/rsdk.git
+wget  https://raw.githubusercontent.com/puschenkino/rsdk-nx5/refs/heads/main/products.json -o /root/rsdk/src/share/rsdk/configs/products.json
 cd rsdk
 npm install @devcontainers/cli
 export PATH="$PWD/src/bin:$PWD/node_modules/.bin:$PATH"
