@@ -6,4 +6,4 @@ npm install @devcontainers/cli
 export PATH="$PWD/src/bin:$PWD/node_modules/.bin:$PATH"
 rsdk devcon up
 rsdk devcon
-rsdk build rock-5b-plus bookworm cli
+/root/rsdk/src/bin/rsdk build rock-5b-plus bookworm cli
